@@ -1,7 +1,3 @@
-# Write your code here
-
-# Write your code here
-
 import random
 
 WORDS = ["python", "java", "swift", "javascript"]
